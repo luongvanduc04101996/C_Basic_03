@@ -25,6 +25,7 @@ float B[10] : mảng 1 chiều có 10 phần tử kiểu số thực.
 `Tên_Mảng[chỉ số]`  
 * Một cách để truy cập đến các phần tử này là dùng đến cặp kí tự ngoặc vuông dạng [k]. Trong đó k là chỉ số (hay vị trí thứ tự đếm từ 0). Như vậy, phần tử thứ k trong mảng array sẽ có cú pháp
 array[k].  
+
 ### **3.Mảng 2 chiều**  
 * **Cú pháp :**  
 `kiểu_dữ_liệu tên_mảng [số hàng][số cột]`  
